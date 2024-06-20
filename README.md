@@ -29,6 +29,10 @@ This online resume builder assists job searchers in building a professional resu
 <!-- [Resume Builder](https://github.com/R-Ayush777/WDW_Project_CE104_CE108_CE144) -->
 
 ---
+![image](https://github.com/Rajendran27/Basic-Resume-Building/assets/170707008/e5d6bdbe-d0b1-4332-8c79-fdf5b3daf59e)
+
+![image](https://github.com/Rajendran27/Basic-Resume-Building/assets/170707008/cb9b5a15-1fb4-4f24-b913-57bac9163b8a)
+
 ---
 
 ## Watch Demo Video :-
